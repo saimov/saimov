@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @saimov (Assuan Saimov)
-- 👀 I’m interested in designing Network Effects
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on e-com projects
-- 📫 You can reach me on telegram https://t.me/saimov
+- 👋 Hi, I’m Assuan
+- 👀 I learn design of imaginary worlds
+- 📫 Reach me on instagram [donpanda123](https://www.instagram.com/donpanda123)
 
 <!---
 saimov/saimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
